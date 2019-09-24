@@ -1,6 +1,6 @@
 # DesignsPatterns
 
-Below are the deisgn patterns explained in Java
+You will find the working examples of various design patterns explained in Java
 
 #Creational Design Patterns :
 - SingletonPattern
